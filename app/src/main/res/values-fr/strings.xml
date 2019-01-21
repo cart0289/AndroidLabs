@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAB 1</string>
+    <string name="hello_message">Salut!</string>
+    <string name="ButtonText">Je Suis un button</string>
+
+</resources>
